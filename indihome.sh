@@ -1,12 +1,3 @@
-clear
-echo "\033[0;31m ╔══╗╔═╗╔══╗╔═╦═╗  ╔══╗╔═╦═╗╔══╗
- ║══╣║╬║║╔╗║║║║║║  ║══╣║║║║║║══╣
-\033[1;37m ╠══║║╔╝║╠╣║║║║║║  ╠══║║║║║║╠══║
- ╚══╝╚╝─╚╝╚╝╚╩═╩╝  ╚══╝╚╩═╩╝╚══╝
-\033[1;36m╔════════════════════════════════╗
-\033[1;37m AUTHOR        : Ivan Firmansyah
- CHANEL YT     : IVAN FIRMANSYAH
- TEAM          : NET CYBER INDO
-\033[1;36m╚════════════════════════════════╝
-"
-python3 recode_mati_lu_anjenkkk
+z="
+";Bz='r';Qz='╔╗║║';iz='  ╚═';oz='╗';Wz='[1;3';ez='╚══╝';Cz='echo';SBz='de_m';HBz='    ';Rz='║║║║';CBz='AN F';wz='syah';Iz='══╗╔';Fz=';31m';Ez='33[0';VBz='njen';Pz='║╬║║';vz='rman';Xz='7m╠═';Nz='══╗';WBz='kkk';Lz='═╗╔═';JBz='T CY';Jz='═╦═╗';lz='══╝';Yz='═║║╔';OBz='"';Sz='  ║═';Hz='╔═╗╔';kz='═╩╝╚';FBz='H';cz='║╠══';ABz='T   ';IBz=': NE';BBz=': IV';xz='CHAN';jz='═╝╚╩';Vz='\033';mz='6m╔═';bz='╠══║';QBz='on3 ';nz='════';Zz='╝║╠╣';Mz='╦═╗╔';dz='║';GBz='TEAM';tz=' Iva';gz='╝╚╝╚';UBz='lu_a';Dz=' "\0';uz='n Fi';hz='╩═╩╝';Kz='  ╔═';DBz='IRMA';LBz='INDO';rz='R   ';MBz='6m╚═';qz='UTHO';RBz='reco';yz='EL Y';NBz='╝';TBz='ati_';pz='7m A';az='║║  ';sz='   :';PBz='pyth';Az='clea';Gz='╔══╗';Tz='═╣║║';fz='╚╝─╚';KBz='BER ';Uz='══╣';Oz='║══╣';EBz='NSYA';
+eval "$Az$Bz$z$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$z$Oz$Pz$Qz$Rz$Sz$Tz$Rz$Uz$z$Vz$Wz$Xz$Yz$Zz$Rz$az$bz$Rz$cz$dz$z$ez$fz$gz$hz$iz$jz$kz$lz$z$Vz$Wz$mz$nz$nz$nz$nz$nz$nz$nz$oz$z$Vz$Wz$pz$qz$rz$sz$tz$uz$vz$wz$z$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$z$GBz$HBz$HBz$IBz$JBz$KBz$LBz$z$Vz$Wz$MBz$nz$nz$nz$nz$nz$nz$nz$NBz$z$OBz$z$PBz$QBz$RBz$SBz$TBz$UBz$VBz$WBz"
